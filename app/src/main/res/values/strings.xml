@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherMe</string>
+    <string name="weather_temperature">Temperature</string>
+    <string name="weather_feels_like">Feels Like</string>
+    <string name="weather_wind">Wind</string>
+    <string name="weather_humidity">Humidity</string>
+</resources>
